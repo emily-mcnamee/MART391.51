@@ -1,5 +1,7 @@
 # Homework1 Assignment and Questions
 
+This is the Homework1 Assignment and my answers to the assigned questions
+
 ## Part 1 - Offline Multiplayer Game
 
 1. What type of multiplayer game was it?
